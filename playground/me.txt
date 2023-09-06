@@ -1,3 +1,0 @@
-Name: Yash Varshney
-Skills: HTML, CSS, JS, React js  and Next js 
-Email: yashvarshney7011@gmail.com
